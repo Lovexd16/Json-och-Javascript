@@ -2,6 +2,7 @@
     {
         "firstName": "Kalle", 
         "lastName": "Anka",
+        "phoneNr": "070-258 147",
         "address": {
             "street": "Vägvägen 12",
             "city": "Ankeborg"
@@ -13,10 +14,29 @@
         "lastName": "Larsson",
         "children": ["Knatte", "Fjatte", "Tjatte"],
         "car": true,
+        "address": {
+            "street": "Vägvägen 12",
+            "city": "Bratteborg"
+        },
         "phoneNr": null
+    },
+    {
+        "firstName": "Bengt",
+        "lastName": "Berg",
+        "phoneNr": "070-123 456",
+        "address":{
+            "street": "Gatuplan 12",
+            "city": "Stadköping"
+        }
+    },
+    {
+        "firstName": "Lena",
+        "lastName": "Lama",
+        "phoneNr": "070-654 321",
+        "address": {
+            "street": "Vägkroken 12",
+            "city": "Borstad"
+        }
     }
 ]
 
-employees[0].address.city
-
-employees[1].children[1]
