@@ -1,0 +1,22 @@
+[
+    {
+        "firstName": "Kalle", 
+        "lastName": "Anka",
+        "address": {
+            "street": "Vägvägen 12",
+            "city": "Ankeborg"
+        },
+        "latestScore": [23, 43, 78]
+    }, 
+    {
+        "firstName": "Anna", 
+        "lastName": "Larsson",
+        "children": ["Knatte", "Fjatte", "Tjatte"],
+        "car": true,
+        "phoneNr": null
+    }
+]
+
+employees[0].address.city
+
+employees[1].children[1]
