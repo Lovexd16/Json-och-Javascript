@@ -1,0 +1,37 @@
+[
+    {
+        "namn": "Janne Kemi",
+        "email": "janne@hiveandfive.se",
+        "city": "Uddebo"
+    },
+    {
+        "namn": "Viktor Lyresten",
+        "email": "viktor@hiveandfive.se",
+        "city": "Uddebo"
+    },
+    {
+        "namn": "Anett Kansanen",
+        "email": "anett@hiveandfive.se",
+        "city": "Borås"
+    },
+    {
+        "namn": "David Jensen",
+        "email": "dadiv@hiveandfive.se",
+        "city": "Göteborg"
+    },
+    {
+        "namn": "Victor Olsson",
+        "email": "victor.olsson@hiveandfive.se",
+        "city": "Göreborg"
+    },
+    {
+        "namn": "Andreas Malmqvist",
+        "email": "andreas.malmqvist@hiveandfive.se",
+        "city": "Trollhättan"
+    },
+    {
+        "namn": "Gustav Bodell",
+        "email": "gustav.bodell@hiveandfive.se",
+        "city": "Uddebo"
+    }
+]

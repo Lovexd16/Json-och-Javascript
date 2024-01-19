@@ -1,52 +1,8 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "7f61",
       "userName": "Love"
-    },
-    {
-      "id": 2,
-      "userName": "Erik"
-    },
-    {
-      "id": "c44c",
-      "userName": "Johan"
-    },
-    {
-      "id": "6fc9",
-      "userName": "Test"
-    },
-    {
-      "id": "0eb4",
-      "userName": "Kurt"
-    },
-    {
-      "id": "2670",
-      "userName": "a"
-    },
-    {
-      "id": "cf11",
-      "userName": "Fanny"
-    },
-    {
-      "id": "5c38",
-      "userName": "Maria"
-    },
-    {
-      "id": "c694",
-      "userName": "sgsdgf"
-    },
-    {
-      "id": "ad24",
-      "userName": "dfffffff"
-    },
-    {
-      "id": "3a22",
-      "userName": "sdfdgsgdf"
-    },
-    {
-      "id": "0785",
-      "userName": "a"
     }
   ]
 }

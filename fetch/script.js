@@ -16,6 +16,25 @@ function printUsers() {
             let li = document.createElement("li")
             li.innerText = user.userName;
 
+            //Radera knapp
+            let deleteBtn = document.createElement("button")
+            deleteBtn.innerText = "Radera";
+
+            deleteBtn.addEventListener("click", () => {
+                console.log("radera namn: ", user.id);
+
+                fetch("http://localhost:3000/users/" + user.id, {
+                    method: "DELETE"
+                })
+                .then(res => res.json())
+                .then(data => {
+                    console.log("delete: ", data)
+                    printUsers();
+            })
+            })
+
+            li.appendChild(deleteBtn)
+
             userList.appendChild(li)
         })
     });
